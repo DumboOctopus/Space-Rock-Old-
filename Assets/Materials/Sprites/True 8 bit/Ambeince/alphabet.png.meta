@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: c4a3f837a63104fb190a9cc3a179cfc8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alphabet_0
+    21300002: alphabet_1
+    21300004: alphabet_2
+    21300006: alphabet_3
+    21300008: alphabet_4
+    21300010: alphabet_5
+    21300012: alphabet_6
+    21300014: alphabet_7
+    21300016: alphabet_8
+    21300018: alphabet_9
+    21300020: alphabet_10
+    21300022: alphabet_11
+    21300024: alphabet_12
+    21300026: alphabet_13
+    21300028: alphabet_14
+    21300030: alphabet_15
+    21300032: alphabet_16
+    21300034: alphabet_17
+    21300036: alphabet_18
+    21300038: alphabet_19
+    21300040: alphabet_20
+    21300042: alphabet_21
+    21300044: alphabet_22
+    21300046: alphabet_23
+    21300048: alphabet_24
+    21300050: alphabet_25
+    21300052: alphabet_26
+    21300054: alphabet_27
+    21300056: alphabet_28
+    21300058: alphabet_29
+    21300060: alphabet_30
+    21300062: alphabet_31
+    21300064: alphabet_32
+    21300066: alphabet_33
+    21300068: alphabet_34
+    21300070: alphabet_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: alphabet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 244
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 244
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 244
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 244
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 244
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 242
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_9
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 242
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 190
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 190
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 190
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 190
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 188
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_18
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 188
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 188
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 188
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 136
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 136
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 136
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 82
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 82
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 82
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 28
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 28
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alphabet_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 28
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
